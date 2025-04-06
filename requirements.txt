@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+matplotlib
+sqlite3 ; this comes built-in with Python, no need to install
